@@ -1,0 +1,26 @@
+Agent: Good afternoon, thank you for reaching out to our support center. How can I assist you today?
+
+Customer: Hi, my internet has been really slow for the last few hours and it's quite frustrating.
+
+Agent: Can I have your full name, please?
+
+Customer: Yeah, it's John Doe.
+
+Agent: Thank you, John. Could you also provide me with your PIN to verify your account?
+
+Customer: Uh, I don't have it on me right now.
+
+Agent: No problem, we can still move ahead. Let me try making some adjustments from my end to improve the connection. Just a second...
+
+Agent: I've made some adjustments to your connection. Can you please check now and see if the speed has improved?
+
+Customer: Yeah, let me check... Yeah, it's much better now. Thanks!
+
+Agent: Great! I'm glad to hear that. Before we conclude, I want to let you know that you will be receiving a survey about this call. The survey is to evaluate my assistance during this call, not the overall internet service. Your feedback would be appreciated.
+
+Customer: Okay, sure. I'll fill that out. Thanks for the help.
+
+Agent: You're welcome, John. Have a great day!
+
+Customer: You too, goodbye!
+

@@ -1,0 +1,29 @@
+# version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"  # 호스트 포트와 컨테이너 포트 매핑
+    # environment:
+      # PORT: 3000  # 애플리케이션 포트 설정 (환경 변수 설정도 가능)
+      # MONGO_URI: mongodb://root:passw0rd@127.0.0.1:27017/  # MongoDB 연결 URI VM의 IP를 넣어야한다(localhost, 127.0.0.1 정상 동작 안함)
+    depends_on:
+      - mongo  # MongoDB 서비스에 의존
+
+  mongo:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: passw0rd
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
