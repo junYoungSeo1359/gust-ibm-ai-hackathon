@@ -1,0 +1,16 @@
+Agent: Good afternoon, thank you for reaching out to our support line. How can I assist you today?
+Customer: Yeah, hi. I've been having issues with my internet connection, it's been dropping constantly since yesterday and it's really starting to frustrate me.
+Agent: Oh, that sounds tough. Let's see if we can get that sorted out for you. Could you please try restarting your router for me?
+Customer: I already did that before calling, still having the issue. 
+Agent: I see. Could you tell me what lights are showing on the router right now?
+Customer: The power light is on, and the internet light is blinking. 
+Agent: Alright, could you please check the cables connected to the router and ensure they are securely plugged in?
+Customer: Yeah, just a second. ... Okay, yeah, they seem fine, but still no change.
+Agent: Okay. We might need to reset your router to factory settings. Do you know how to do this?
+Customer: No, I don't. Can you guide me through it?
+Agent: Of course, to reset the router, you will usually find a small reset button at the back of your router. You will need a pin or something similar to press it. Hold it down for about 10-15 seconds, then release it. The router should restart. 
+Customer: Alright, I did that. It's restarting now.
+Agent: Great, let's give it a few minutes to restart and reconnect. Please check to see if the issue persists once it's back online.
+Customer: It seems to be working now, thanks for your help.
+Agent: You're welcome. If you encounter any other issues, don't hesitate to give us a call. Have a great day!
+

@@ -1,0 +1,18 @@
+Agent: Thank you for calling our ISP support center. May I have your full name and PIN, please?
+
+Customer: Yeah, it's John Doe. The PIN is 1234.
+
+Agent: Thank you, John. Please go ahead and tell me the problem you are facing.
+
+Customer: I've been having a really slow internet connection since yesterday. It's really frustrating.
+
+Agent: I understand that it can be very frustrating to deal with slow internet speeds. Let's check the status of your connection and see what might be causing the issue.
+
+Customer: Alright, let's get this sorted quickly.
+
+Agent: I'm checking the details right now. It seems like there might be an issue with the line in your area. I will report this to the concerned team to have it fixed.
+
+Customer: Okay, thanks. Hopefully, it gets resolved soon.
+
+Agent: Yes, we aim to resolve these issues as quickly as possible. Thank you for bringing this to our attention, John.
+

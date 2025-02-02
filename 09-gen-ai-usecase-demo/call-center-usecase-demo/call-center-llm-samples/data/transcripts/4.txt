@@ -1,0 +1,23 @@
+Agent: Good morning, thank you for calling our support center. Can I start by getting your full name and PIN, please?
+
+Customer: Yeah, this is John Doe. My PIN is 1234.
+
+Agent: Thank you, John. I appreciate your patience. Now, could you please tell me the problem you're experiencing?
+
+Customer: Sure, I've been having trouble with my internet connection since yesterday. It's really slow and sometimes disconnects completely.
+
+Agent: I'm really sorry to hear that, John. I can definitely help you fix that today. Let's start by checking your connection and settings.
+
+(After a few minutes)
+
+Agent: It seems like there was a minor issue with your connection. I have reset it for you. Could you please check if the issue has been resolved?
+
+Customer: Yeah, it looks like it's working fine now. Thank you.
+
+Agent: You're welcome, John. Before you go, I'd like to inform you that you will receive a survey regarding this call. Please remember the survey is about my performance today and not the quality of the internet service. We value your feedback.
+
+Customer: Okay, I'll keep that in mind.
+
+Agent: Thank you, John. Have a great day!
+
+Customer: You too, goodbye.

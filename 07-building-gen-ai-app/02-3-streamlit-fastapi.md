@@ -1,0 +1,7 @@
+# 과제 - streamlit과 fastapi을 이용한 AI Chatbot LLM 서비스 만들기
+프롬프트 엔지니어링을 실습을 했던 것을 기반으로 LLM 애플리케이션을 서비스를 개발합니다.
+   - streamlit 
+   - fastapi
+  
+
+
